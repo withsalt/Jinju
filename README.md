@@ -35,4 +35,4 @@ JinJu.start("main");
 ```
 
 ### 效果
-![](https://doc.berrypi.net/server/index.php?s=/api/attachment/visitFile/sign/b5e136fd5f78711098bb32f32bc7e45e&showdoc=.jpg)
+![](https://github.com/withsalt/Jinju/blob/main/img/demo.png)
